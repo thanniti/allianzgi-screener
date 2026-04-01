@@ -1,4 +1,3 @@
-```
 yfinance
 numpy
 pandas
@@ -6,3 +5,4 @@ python-pptx
 streamlit
 plotly
 matplotlib
+# Updated for deployment
